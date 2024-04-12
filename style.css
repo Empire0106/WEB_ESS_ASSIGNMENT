@@ -1,0 +1,131 @@
+/* 
+this is for index page */
+
+.add-bulk{
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.add-btn-bulk
+{
+    padding: 75px;
+    border: none;
+    font-size: 3em;
+    background-color: rgb(58, 111, 215);
+    border-radius: 5px;
+    color: white;
+    
+}
+.add-btn-bulk:hover
+{
+    box-shadow: 2px 2px 10px gray,-2px -2px 10px gray;
+}
+.add-local{
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.add-btn-local
+{
+    padding: 75px;
+    border: none;
+    font-size: 3em;
+    background-color: rgb(58, 111, 215);
+    border-radius: 5px;
+    color: white;
+    
+}
+.add-btn-local:hover
+{
+    box-shadow: 2px 2px 10px gray,-2px -2px 10px gray;
+}
+
+/* this css for bulk page  */
+.add-add{
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.add-btn-add
+{
+    padding: 75px;
+    border: none;
+    font-size: 3em;
+    background-color: rgb(58, 215, 202);
+    border-radius: 5px;
+    color: white;
+    
+}
+.add-btn-add:hover
+{
+    box-shadow: 2px 2px 10px gray,-2px -2px 10px gray;
+}
+.add-display{
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.add-btn-display
+{
+    padding: 75px;
+    border: none;
+    font-size: 3em;
+    background-color: rgb(58, 215, 202);
+    border-radius: 5px;
+    color: white;
+    
+}
+.add-btn-display:hover
+{
+    box-shadow: 2px 2px 10px gray,-2px -2px 10px gray;
+}
+
+/* this css for add page */
+
+.add-form
+{
+    margin-top: 100px;
+    background-color: white;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+}
+
+label{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    display: block;
+    font-weight: 500;
+}
+input[type="text"]{
+    border: none;
+    border-bottom: 2px solid rgb(8, 133, 243);
+}
+input[type="number"]{
+    border: none;
+    border-bottom: 2px solid rgb(8, 133, 243);
+}
+.submit
+{
+    display: block;
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 5px;
+    background-color: rgb(112, 153, 228);
+    color: white;
+}
+.submit:hover
+{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px rgb(220, 237, 252);
+}
+select
+{
+    width: 50%;
+}
